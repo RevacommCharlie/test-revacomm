@@ -1,0 +1,19 @@
+---
+  Standards:
+  
+    -
+      Title: RevaComm Quiz
+      UID: fed67e52-1bfb-47d4-8ee9-9ab6c850bb06
+      Description: Short RevaComm Quiz
+      SuccessCriteria:
+        - Answer questions correctly
+      ContentFiles:
+        - Type: Lesson
+          UID: bdec57c2-4957-4932-a5c9-09e9983d169a
+          Path: /revacomm_quiz.md
+        - Type: Checkpoint
+          UID: b3b8b087-e631-4bbb-96e0-95578be73343
+          Path: /unit1-checkpoint.md
+          Autoscore: true
+          TimeLimit: 2
+
