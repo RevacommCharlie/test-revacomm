@@ -11,6 +11,9 @@
         - Type: Lesson
           UID: bdec57c2-4957-4932-a5c9-09e9983d169a
           Path: /revacomm-quiz.md
+        - Type: Lesson
+          UID: fd247f2b-3374-4099-ac5e-ef42cecf1d73
+          Path: /Python-Code-Snippet-Challenge.md
         # - Type: Checkpoint
         #   UID: b3b8b087-e631-4bbb-96e0-95578be73343
         #   Path: /checkpoint.md
